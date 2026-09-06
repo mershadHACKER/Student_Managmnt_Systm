@@ -1,0 +1,13 @@
+STUDENT MANAGEMENT SYSTEM
+
+DASHBOARD
+
+Total Students: 100
+Total Teachers: 10
+Total Courses: 5
+
+Modules:
+- Student Management
+- Attendance
+- Courses
+- Reports
