@@ -1,0 +1,6 @@
+Student Management System - Login Module
+
+Features:
+- User login
+- Username validation
+- Password validation
