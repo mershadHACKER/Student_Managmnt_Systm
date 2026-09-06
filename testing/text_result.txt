@@ -1,0 +1,103 @@
+STUDENT MANAGEMENT SYSTEM
+QA TEST RESULTS
+===============
+
+Project: Student Management System
+Testing Type: Functional and Integration Testing
+Tester: QA Team Member
+
+## LOGIN MODULE
+
+LOGIN-01
+Test: Valid username and password
+Expected: User should log in successfully
+Result: User logged in successfully
+Status: PASS
+
+LOGIN-02
+Test: Invalid username
+Expected: Login should be rejected
+Result: Login rejected
+Status: PASS
+
+LOGIN-03
+Test: Invalid password
+Expected: Login should be rejected
+Result: Login rejected
+Status: PASS
+
+LOGIN-04
+Test: Empty login fields
+Expected: Empty input should be handled correctly
+Result: Empty input handled correctly
+Status: PASS
+
+## DASHBOARD MODULE
+
+DASH-01
+Test: Open Dashboard
+Expected: Dashboard should load successfully
+Result: Dashboard loaded successfully
+Status: PASS
+
+DASH-02
+Test: View student information
+Expected: Student information should be displayed
+Result: Student information displayed
+Status: PASS
+
+DASH-03
+Test: Navigate through Dashboard options
+Expected: Options should work correctly
+Result: Options worked correctly
+Status: PASS
+
+## REPORTS MODULE
+
+REPORT-01
+Test: Open Reports module
+Expected: Reports module should open successfully
+Result: Reports module opened successfully
+Status: PASS
+
+REPORT-02
+Test: Display student report
+Expected: Student report should be displayed
+Result: Student report displayed
+Status: PASS
+
+REPORT-03
+Test: Display multiple student records
+Expected: Multiple records should be displayed correctly
+Result: Records displayed correctly
+Status: PASS
+
+## INTEGRATION TESTING
+
+INT-01
+Test: Login to Dashboard
+Expected: Successful login should allow Dashboard access
+Result: Dashboard accessed successfully
+Status: PASS
+
+INT-02
+Test: Dashboard to Reports
+Expected: Reports module should open
+Result: Reports module opened successfully
+Status: PASS
+
+INT-03
+Test: Complete application flow
+Expected: Application should operate correctly
+Result: Application flow completed successfully
+Status: PASS
+
+## FINAL RESULT
+
+Total Test Cases: 13
+Passed: 13
+Failed: 0
+
+Overall Status: PASS
+
+QA testing completed successfully.
