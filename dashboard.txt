@@ -2,9 +2,10 @@ STUDENT MANAGEMENT SYSTEM
 
 DASHBOARD
 
-Total Students: 100
-Total Teachers: 10
-Total Courses: 5
+Total Students: 150
+Total Teachers: 15
+Total Courses: 8
+Active Students: 140
 
 Modules:
 - Student Management
